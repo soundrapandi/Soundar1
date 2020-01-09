@@ -14,7 +14,7 @@ public class sizetest {
     size sp;
     
     
-    public sizetest321(){
+    public sizetest(){
     	hp=new obj();
     	bp=new bassclass();
     	sp=new size();
