@@ -11,7 +11,9 @@ public class chart extends bassclass {
 	@FindBy(xpath="//span[@class='heading-counter']")
 	private WebElement sevenpro;
 	
-	@FindBy4321(xpath="//img[@itemprop='image']")	
+
+	@FindBy4321(xpath="//img[@itemprop='image']")		
+
 	private List<WebElement> Dress;
 	
 	public chart() {

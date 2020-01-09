@@ -11,7 +11,7 @@ public class mailtest {
 
 
 	
-	mmailobj mo;
+	mmailobj mo112233;
 	bassclass bp;
 	mailobj1 mo1;
 	
